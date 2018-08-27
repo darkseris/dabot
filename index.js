@@ -57,4 +57,4 @@ bot.on("message", async message => {
         return console.log('----------')
     }
 });
-client.login(process.env.NDgzMDIzNTI0MjE1MzkwMjE4.DmNfSQ.mUh-oR-QIQVG4Qo-ogeCMZto5Ig);
+bot.login('NDgzMDIzNTI0MjE1MzkwMjE4.DmNfSQ.mUh-oR-QIQVG4Qo-ogeCMZto5Ig');
