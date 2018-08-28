@@ -57,4 +57,4 @@ bot.on("message", async message => {
         return console.log('----------')
     }
 });
-bot.login('NDgzMDIzNTI0MjE1MzkwMjE4.DmNfSQ.mUh-oR-QIQVG4Qo-ogeCMZto5Ig');
+bot.login('NDgzMDIzNTI0MjE1MzkwMjE4.DmbP9g.tz45b_gwk9HA7w87HtP8RJ0pVjM');
