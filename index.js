@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client({disableEveryone:true});
 bot.on("ready", async () => {
-    console.log('Dabot is online!');
+    console.log('Dabnpm install discord.jsot is online!');
     bot.user.setActivity("Runescape EX DE", {type: 1})
     
 });
